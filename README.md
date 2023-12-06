@@ -10,12 +10,15 @@ This is a Python script to play recitations (murotal) of verses from the Holy Qu
 
 ## how to use
 
+```markdown
 $ pkg install python
 $ pip install requests
 $ Install an audio player in Termux if needed
 $ git clone (url_source)
 $ cd murotal
 $ python murotal.py
+```
+
 
 Follow the prompts to input the surah number, Quran edition, or verse reference you want to listen to.
 
