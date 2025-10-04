@@ -5,8 +5,8 @@ This is a Python script to play recitations (murotal) of verses from the Holy Qu
 ## Requirements
 
 - Python 3.x
-- `requests` module: Install using `pip install requests`
-- Audio player in Termux (optional)
+- `requests` module: Install using `pip install requests
+- pkg install mpv
 
 ## how to use
 
